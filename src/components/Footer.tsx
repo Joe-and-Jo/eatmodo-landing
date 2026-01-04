@@ -13,7 +13,7 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://www.instagram.com/eatmodo?igsh=NWowM3ExdjEyb3Z1"
+                href="https://www.instagram.com/eatmodo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-orange-600 transition-colors"
@@ -22,7 +22,7 @@ export function Footer() {
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.tiktok.com/@eatmodo"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-orange-600 transition-colors"
                 aria-label="Twitter"
               >
